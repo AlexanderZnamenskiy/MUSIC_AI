@@ -37,5 +37,17 @@ pip list
 ```
 in te typen controleren of pyFluidSynth is geinstallerd.
 
+Als je deze repositry cloned staat de FluidSynth API automatisch in je map. Wanneer de fluidsynt.py je map dan gaat afzoeken naar DLL's kan deze deze direct vinden. Als dat niet gebeurt. Zet dan de locatie van de DLL's in je PATH. Dit kan door in je settings de setting edit the system environment variables op te zoeken en daar de locatie toe te voegen bij waar staat PATH.
+
+![image](https://user-images.githubusercontent.com/89349677/148691338-b5efd851-2e81-4337-b300-2b9caa2441b3.png)
+
+![image](https://user-images.githubusercontent.com/89349677/148691350-aa5284d0-a720-4ca8-8b30-8e3be30705af.png)
+
+![image](https://user-images.githubusercontent.com/89349677/148691397-17e4b905-c903-48e2-9cb8-d2f6acfbd9d7.png)
+
+![image](https://user-images.githubusercontent.com/89349677/148691423-b035f9ae-7373-4826-a7b6-34b7efbfdead.png)
+
+De locatie kan voor de zekerheid worden toegevoegd en in de system en in de user variables.
+
 # Credits
 Gemaakt door Alexander Znamenskiy en Maurice van de Streek van het Lorentz Casimir Lyceum
