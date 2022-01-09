@@ -22,7 +22,7 @@ Om de code van musgen2.ipynb te runnen is het nodig om alle python blokjes af te
 Als eerste is het belangrijk om in de pip file van je computer deze file te zetten: https://github.com/nwhitehead/pyfluidsynth. Verder moet je deze file unzippen en dan door middel van je command prompter en python binnen deze file de setup.py te runnen:
 
 ```
-cd C:\Users\ [USER] \AppData\Local\Programs\Python\ [PYTHON VERSION] \Lib\site-packages\pyfluidsynth-master
+cd C:\Users\[USER]\AppData\Local\Programs\Python\[PYTHON VERSION]\Lib\site-packages\pyfluidsynth-master
 
 python setup.py install
 ```
