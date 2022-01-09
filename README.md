@@ -1,7 +1,7 @@
 # MUSIC AI
 Dit is een project dat wordt ingeleverd als een eindexamen profielwerkstuk.
 
-# Introduction
+# Introductie
 De belangrijkste file in de repositry is de musgen2.ipynb file. Een .ipynb file kan worden geopend in google colab maar ook in Visual Studio Code. Dit is een type file waarin het makkelijk is om verschillende delen van de code te runnen en er uitleg bij te geven. Deze repository bevat ook ons complete verslag en de _ databases die binnen de .ipynb file kunnen worden aangeroepen.
 
 # Downloaden
