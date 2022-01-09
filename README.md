@@ -36,3 +36,6 @@ pyFluidSynth in je library zetten. Nu kan je door
 pip list
 ```
 in te typen controleren of pyFluidSynth is geinstallerd.
+
+# Credits
+Gemaakt door Alexander Znamenskiy en Maurice van de Streek van het Lorentz Casimir Lyceum
