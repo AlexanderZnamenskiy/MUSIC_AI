@@ -1,0 +1,28 @@
+MAESTRO dataset -> labeled?
+
+pathlib -> path objects
+glob -> finding pathnames
+pretty_midi -> manipulate labeled midi files?
+
+pathlib.Path(<dir>)
+pathlib.Path.exists() -> False or True
+
+could explain why vectorization is handy? Do we even use it?
+
+
+Numpy
+------
+Ndarray -> N-dimensional array
+vector -> 1-D (no diff between column and row vector)
+matrix -> 2-D
+Tensor -> 3-D or higher
+
+Arrays faster and memory efficient than python datatypes for storage of data.
+Arrays are homogeneous -> faster manipulation/computation. -> same data type.
+
+dtype -> element type of array
+rank -> #dimensions
+shape -> length of dimensions.
+axes == dimensions
+
+ndarray class -> for matrices and vectors
