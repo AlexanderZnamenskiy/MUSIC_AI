@@ -1,3 +1,5 @@
+BRONVERMELDING!
+
 MAESTRO dataset -> labeled?
 
 pathlib -> path objects
@@ -9,6 +11,11 @@ pathlib.Path.exists() -> False or True
 
 could explain why vectorization is handy? Do we even use it?
 
+python
+---------
+
+Enumerate() -> gives object and counter
+dict.items() -> gives objects of dictionary
 
 Numpy
 ------
@@ -23,6 +30,26 @@ Arrays are homogeneous -> faster manipulation/computation. -> same data type.
 dtype -> element type of array
 rank -> #dimensions
 shape -> length of dimensions.
-axes == dimensions
+axes == dimensions (definition used in Numpy, not necessarily generally used)
 
 ndarray class -> for matrices and vectors
+
+Pandas
+------
+
+DataFrame.iterrows() -> iterate over DataFrame rows.
+
+TensorFlow
+-----------
+
+ td.data.Dataset.window:
+ source: https://www.tensorflow.org/api_docs/python/tf/data/Dataset#window
+
+ window = subset of dataset; view window as a box around some elements of a list of numbers (visualized in your mind).
+ window.shift = by how much the window will be moved
+ window.stride = stride:1, means every element, stride:2, ever other elements ...
+
+General
+-------
+
+How RNN works & why we chose it: https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/
