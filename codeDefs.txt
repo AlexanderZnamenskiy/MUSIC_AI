@@ -1,5 +1,10 @@
 BRONVERMELDING!
 
+sources
+-------
+
+MAESTRO: https://magenta.tensorflow.org/datasets/maestro -> Piano?
+
 MAESTRO dataset -> labeled?
 
 pathlib -> path objects
